@@ -2,7 +2,7 @@ const oracledb = require('oracledb');
 
 db ={
     user: 'landwho',
-    password: 'jubico25',
+    password: '*******',
     connectString : "localhost/orclXDB"
 }
 
